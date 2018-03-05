@@ -1,0 +1,5 @@
+{
+        "binary"        :  "/opt/rlm/rlmutil",
+        "cmd"           :  "rlmstat -a -c",
+        "serverURL"     :  "27000@localhost"
+}
